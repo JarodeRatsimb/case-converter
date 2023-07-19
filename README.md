@@ -10,6 +10,11 @@ A web app that takes a string and converts it into:
 
 It has the additional functionally of saving the converted text into a .txt file.
 
+## Tech Stack
+
+- HTML
+- JavaScript
+
 ## Run
 
 Download the code and double click on index.html.
