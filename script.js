@@ -72,6 +72,10 @@ const turnToSentence = function () {
 senButton.addEventListener("click", turnToSentence);
 
 //----------proper-case section-----------\\
+
+/**
+*Function to download converted string
+*/
 function download(filename, text) {
     let element = document.createElement('a');
     element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
