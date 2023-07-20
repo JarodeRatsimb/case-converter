@@ -8,7 +8,7 @@ A web app that takes a string and converts it into:
 - Proper case
 - Sentence case
 
-It has the additional functionally of saving the converted text into a .txt file.
+It has the additional functionality of saving the converted text into a .txt file.
 
 ## Tech Stack
 
@@ -17,7 +17,7 @@ It has the additional functionally of saving the converted text into a .txt file
 
 ## Run
 
-Download the code and double click on index.html.
+[Case converter webpage](https://jaroderatsimb.github.io/case-converter/)
 
 ## More
 
